@@ -1,3 +1,4 @@
 body{
-  align-content: centre;
+  display: flex;
+  justify-content: centre;
 }
