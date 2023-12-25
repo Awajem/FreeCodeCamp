@@ -1,4 +1,6 @@
 body{
   display: flex;
   justify-content: centre;
+  font-family: Arial;
+  font-weight: normal;
 }
